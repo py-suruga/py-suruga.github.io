@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python駿河 - news</title><link href="/" rel="alternate"></link><link href="/feeds/news.atom.xml" rel="self"></link><id>/</id><updated>2019-10-18T22:20:00+09:00</updated><entry><title>first post</title><link href="/first-post.html" rel="alternate"></link><published>2019-10-18T22:20:00+09:00</published><updated>2019-10-18T22:20:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2019-10-18:/first-post.html</id><content type="html">&lt;h1&gt;Python suruga first post!!!&lt;/h1&gt;
+&lt;p&gt;こちらはPython駿河の公式サイトです。&lt;/p&gt;
+&lt;p&gt;ただいま内容含めて準備中。。&lt;/p&gt;</content><category term="news"></category></entry></feed>
