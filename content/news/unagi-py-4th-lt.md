@@ -1,4 +1,4 @@
-Title: Python駿河 勉強会 #21 ～Unagi.pyと一緒に機械学習・データサイエンスLT会～
+Title: Python駿河 勉強会 #21 Unagi.py4年目記念 機械学習LT会
 date: 2021-01-26 07:33
 Tags: 開催報告
 Author: hrsano645
