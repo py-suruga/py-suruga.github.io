@@ -1,7 +1,5 @@
-title: first post
+title: 新しいサイト構成にしました
 date: 2021-01-26 07:33
-
-# 新しいサイト構成にしました
 
 Python駿河です。
 
