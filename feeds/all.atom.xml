@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python駿河</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-01-26T07:33:00+09:00</updated><entry><title>first post</title><link href="/posts/2021/01/26/first-post/" rel="alternate"></link><published>2021-01-26T07:33:00+09:00</published><updated>2021-01-26T07:33:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2021-01-26:/posts/2021/01/26/first-post/</id><content type="html">&lt;h1&gt;新しいサイト構成にしました&lt;/h1&gt;
-&lt;p&gt;Python駿河です。&lt;/p&gt;
-&lt;p&gt;2019年に一応で作成したサイトの構成を変更して、更新しやすい環境に整えています。といってもデザイン含めて代り映えしないはずですが、中身を変更しました。&lt;/p&gt;
-&lt;p&gt;以前もGitHub Pagesを利用していましたが、GitHubのインフラで生成できるようにリポジトリなどの設定を変更しています。&lt;/p&gt;
-&lt;p&gt;サイトの生成には&lt;a href="https://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;というPythonの静的サイトジェネレーターを利用しています。デプロイはGitHub Actionsを利用しています。&lt;/p&gt;
-&lt;p&gt;詳しくは公式サイトのリポジトリで確認できます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/py-suruga/py-suruga.github.io"&gt;py-suruga/py-suruga.github.io: Python駿河の公式サイト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;今後はイベント開催のレポートを月報という形で公開します。イベント同様なるべく無理せずですが続けられるように取り組もうと思ってます。&lt;/p&gt;
-&lt;p&gt;簡単ながら、仕切り直しの報告でした。今後ともPython駿河をよろしくお願いします！&lt;/p&gt;</content><category term="news"></category></entry><entry><title>first post</title><link href="/posts/2021/01/26/first-post/" rel="alternate"></link><published>2021-01-26T07:33:00+09:00</published><updated>2021-01-26T07:33:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2021-01-26:/posts/2021/01/26/first-post/</id><content type="html">&lt;h1&gt;新しいサイト構成にしました&lt;/h1&gt;
-&lt;p&gt;Python駿河です。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python駿河</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-01-26T07:33:00+09:00</updated><entry><title>新しいサイト構成にしました</title><link href="/posts/2021/01/26/xin-shiisaitogou-cheng-nishimashita/" rel="alternate"></link><published>2021-01-26T07:33:00+09:00</published><updated>2021-01-26T07:33:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2021-01-26:/posts/2021/01/26/xin-shiisaitogou-cheng-nishimashita/</id><content type="html">&lt;p&gt;Python駿河です。&lt;/p&gt;
 &lt;p&gt;2019年に一応で作成したサイトの構成を変更して、更新しやすい環境に整えています。といってもデザイン含めて代り映えしないはずですが、中身を変更しました。&lt;/p&gt;
 &lt;p&gt;以前もGitHub Pagesを利用していましたが、GitHubのインフラで生成できるようにリポジトリなどの設定を変更しています。&lt;/p&gt;
 &lt;p&gt;サイトの生成には&lt;a href="https://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;というPythonの静的サイトジェネレーターを利用しています。デプロイはGitHub Actionsを利用しています。&lt;/p&gt;
@@ -22,7 +10,5 @@
 &lt;hr&gt;
 &lt;p&gt;今後はイベント開催のレポートを月報という形で公開します。イベント同様なるべく無理せずですが続けられるように取り組もうと思ってます。&lt;/p&gt;
 &lt;p&gt;簡単ながら、仕切り直しの報告でした。今後ともPython駿河をよろしくお願いします！&lt;/p&gt;</content><category term="news"></category></entry><entry><title>first post</title><link href="/posts/2019/10/18/first-post/" rel="alternate"></link><published>2019-10-18T22:20:00+09:00</published><updated>2019-10-18T22:20:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2019-10-18:/posts/2019/10/18/first-post/</id><content type="html">&lt;h1&gt;Python suruga first post!!!&lt;/h1&gt;
-&lt;p&gt;こちらはPython駿河の公式サイトです。&lt;/p&gt;
-&lt;p&gt;ただいま内容含めて準備中。。&lt;/p&gt;</content><category term="news"></category></entry><entry><title>first post</title><link href="/posts/2019/10/18/first-post/" rel="alternate"></link><published>2019-10-18T22:20:00+09:00</published><updated>2019-10-18T22:20:00+09:00</updated><author><name>py-suruga</name></author><id>tag:None,2019-10-18:/posts/2019/10/18/first-post/</id><content type="html">&lt;h1&gt;Python suruga first post!!!&lt;/h1&gt;
 &lt;p&gt;こちらはPython駿河の公式サイトです。&lt;/p&gt;
 &lt;p&gt;ただいま内容含めて準備中。。&lt;/p&gt;</content><category term="news"></category></entry></feed>
