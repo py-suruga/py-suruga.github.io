@@ -1,16 +1,10 @@
-name: data uploader
+name: deploy
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - master
-
-# on:
-#   workflow_dispatch:
-  # schedule:
-  #   # 15分ごとに試す
-  #   - cron:  '*/15 * * * *'
+  workflow_dispatch:
 
 # データの生成
 jobs:
