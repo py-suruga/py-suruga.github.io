@@ -32,7 +32,10 @@ SOCIAL = (('connpassグループ', 'https://py-suruga.connpass.com/'),
 
 DEFAULT_PAGINATION = 5
 
+# ポストやページのタイトルをファイル名にする
+SLUGIFY_SOURCE = 'basename'
 
+# URLの構造設定
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
 PAGE_URL = '{slug}/'
