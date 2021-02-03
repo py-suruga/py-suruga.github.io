@@ -28,6 +28,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (('connpassグループ', 'https://py-suruga.connpass.com/'),
+          ('Unagi.py connpassグループ', 'https://unagi-py.connpass.com/'),
+          ('PyCon mini Shizuoka', 'https://shizuoka.pycon.jp'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
