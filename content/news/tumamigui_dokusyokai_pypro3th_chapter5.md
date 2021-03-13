@@ -11,7 +11,7 @@ Python駿河の2021年2月の開催報告です。
 
 - [Python駿河 勉強会 #22 ～Python名著をつまみ食い～ - connpass](https://py-suruga.connpass.com/event/204027/)
 - [Unagi.py 勉強会38枚目 ～Python名著をつまみ食い～ - connpass](https://unagi-py.connpass.com/event/204028/)
-- hackmd: https://hackmd.io/@pysuruga-unagipy/rJwabWheO
+- [hackmd](https://hackmd.io/@pysuruga-unagipy/rJwabWheO)
 
 読書会はひとつの書籍を何回かに分けて読みます。それ自体はよいのですが一度書籍を読んでしまうと次のモチベーションがつながらなかったりすることも感じます。
 
