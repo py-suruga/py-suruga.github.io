@@ -1,4 +1,4 @@
-Title: Python駿河 勉強会 #21 ～Python名著をつまみ食い～
+Title: Python駿河 勉強会 #22 ～Python名著をつまみ食い～
 date: 2021-03-13 17:10
 Tags: 開催報告
 Author: hrsano645
