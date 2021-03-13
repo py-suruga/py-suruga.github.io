@@ -40,5 +40,7 @@ ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
+SLUGIFY_SOURCE = 'basename'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
