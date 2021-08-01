@@ -3,7 +3,7 @@
 &lt;p&gt;新型コロナウィルスの状況もあり、現在はオンライン開催で&lt;a href="https://unagi-py.connpass.com/"&gt;Unagi.py&lt;/a&gt;と合同で勉強会を行っています。&lt;/p&gt;
 &lt;p&gt;6月はつまみ食い読書会2回目として、以前にやったPythonプロフェッショナルプログラミングの1つの章を使って、ペア読書を行いました。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://py-suruga.connpass.com/event/216357/"&gt;Python駿河 勉強会 #26 ～Python名著をつまみ食い2～ - connpass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;HackMD: https://hackmd.io/@pysuruga-unagipy/ByC8be8KO&lt;/p&gt;
+&lt;p&gt;HackMD: &lt;a href="https://hackmd.io/@pysuruga-unagipy/SJRcfYSsO"&gt;Unagi-py/Python駿河 合同勉強会 2021/06 - HackMD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ペア読書方式をやってみます&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://note.com/1000tea_/n/nc4b9f41aee56"&gt;『ペア読書』という最強の読書法を見つけたので図解します。｜＼そや／ ペア読書の生みの親｜note&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;読んだ本の章はこちらになります。&lt;/p&gt;
@@ -14,11 +14,11 @@
 &lt;p&gt;ペア読書の振り返りでは、MVCのパターン意外って最近何があるの？、Javaで言うところのInterfaceはPythonで言うと何？ といった話題がありました。&lt;/p&gt;
 &lt;p&gt;PythonのInterfaceという概念は存在しない一方で、似たような方法をどう実現するかという話はいくつかあるそうです。Python3.8から使えるtyping.Protocolを使う方法も良さそうでした。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;https://www.lifewithpython.com …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年5月の開催報告です。&lt;/p&gt;
+&lt;li&gt;https://www.lifewithpython …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年5月の開催報告です。&lt;/p&gt;
 &lt;p&gt;新型コロナウィルスの状況もあり、現在はオンライン開催で&lt;a href="https://unagi-py.connpass.com/"&gt;Unagi.py&lt;/a&gt;と合同で勉強会を行っています。&lt;/p&gt;
 &lt;p&gt;6月はつまみ食い読書会2回目として、以前にやったPythonプロフェッショナルプログラミングの1つの章を使って、ペア読書を行いました。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://py-suruga.connpass.com/event/216357/"&gt;Python駿河 勉強会 #26 ～Python名著をつまみ食い2～ - connpass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;HackMD: https://hackmd.io/@pysuruga-unagipy/ByC8be8KO&lt;/p&gt;
+&lt;p&gt;HackMD: &lt;a href="https://hackmd.io/@pysuruga-unagipy/SJRcfYSsO"&gt;Unagi-py/Python駿河 合同勉強会 2021/06 - HackMD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ペア読書方式をやってみます&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://note.com/1000tea_/n/nc4b9f41aee56"&gt;『ペア読書』という最強の読書法を見つけたので図解します。｜＼そや／ ペア読書の生みの親｜note&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;読んだ本の章はこちらになります。&lt;/p&gt;
@@ -45,7 +45,7 @@
 &lt;p&gt;新型コロナウィルスの状況もあり、現在はオンライン開催で&lt;a href="https://unagi-py.connpass.com/"&gt;Unagi.py&lt;/a&gt;と合同で勉強会を行っています。&lt;/p&gt;
 &lt;p&gt;5月は雑談する時間が欲しいということで雑談会となりました。集まった皆さんと一緒に次回以降のネタや、最近の疑問を相談し合うような会でした。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://py-suruga.connpass.com/event/213672/"&gt;Python駿河 勉強会 #25 ～雑談会～ - connpass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;HackMD: https://hackmd.io/@pysuruga-unagipy/ByC8be8KO&lt;/p&gt;
+&lt;p&gt;HackMD: &lt;a href="https://hackmd.io/@pysuruga-unagipy/ByC8be8KO"&gt;Unagi-py/Python駿河 合同勉強会 2021/05 - HackMD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;その時に出た疑問として、プレゼンを素早く作るには？というテーマでいろんな方法をあげられていました。上がった方法をあげてみると&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;HackMD&lt;/li&gt;
@@ -60,11 +60,11 @@
 &lt;p&gt;ここからハンズオンを考えてみても良さそうだったので、次回以降にJupyter + RISEでプレゼンを作ってみるハンズオンを開催することになりました。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Python駿河は毎月開催を目指して活動しています。一緒にPython楽しみましょう。&lt;/p&gt;
-&lt;p&gt;勉強会スタッフ、テーマ、企画も随時募集しております。イベント運営に興味がある方は公式Slackから参加できます …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年5月の開催報告です。&lt;/p&gt;
+&lt;p&gt;勉強会スタッフ、テーマ、企画も随時募集しております …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年5月の開催報告です。&lt;/p&gt;
 &lt;p&gt;新型コロナウィルスの状況もあり、現在はオンライン開催で&lt;a href="https://unagi-py.connpass.com/"&gt;Unagi.py&lt;/a&gt;と合同で勉強会を行っています。&lt;/p&gt;
 &lt;p&gt;5月は雑談する時間が欲しいということで雑談会となりました。集まった皆さんと一緒に次回以降のネタや、最近の疑問を相談し合うような会でした。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://py-suruga.connpass.com/event/213672/"&gt;Python駿河 勉強会 #25 ～雑談会～ - connpass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;HackMD: https://hackmd.io/@pysuruga-unagipy/ByC8be8KO&lt;/p&gt;
+&lt;p&gt;HackMD: &lt;a href="https://hackmd.io/@pysuruga-unagipy/ByC8be8KO"&gt;Unagi-py/Python駿河 合同勉強会 2021/05 - HackMD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;その時に出た疑問として、プレゼンを素早く作るには？というテーマでいろんな方法をあげられていました。上がった方法をあげてみると&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;HackMD&lt;/li&gt;
