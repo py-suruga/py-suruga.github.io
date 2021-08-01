@@ -25,7 +25,8 @@
 &lt;p&gt;このハンズオンでは、ただスライドの作り方を紹介するのではなくて、加えてPandas+&lt;a href="https://plotly.com/python/"&gt;Plotly&lt;/a&gt;というグラフライブラリを使ってグラフを作りながらスライドも更新する様子も紹介しています。&lt;/p&gt;
 &lt;p&gt;ハンズオン中に、指摘があった部分を直したりするのも手軽にできます。これもJupyterのメリットをそのままスライド作成に活かせる点ですね。（途中参加者皆さんにサポートしてもらって進めてましたし）&lt;/p&gt;
 &lt;p&gt;Jupyterに慣れている方ならすぐに使えると思いますし、学生さんが実験で試した結果をゼミで発表するなんかはちょうどいいツールだと思います。&lt;/p&gt;
-&lt;p&gt;ハンズオンの体験はGitHubのリポジトリからもできます。ローカルで環境を作る必要がありますがそれほど大変ではないと思うので、ぜひ試してみてください。質問などありましたらPython駿河やUnagi .pyのSlackで声かけてもらえると嬉しいです。（Slackの参加方法はHackMDから確認ください）&lt;/p&gt;
+&lt;p&gt;ハンズオンの体験はGitHubのリポジトリからもできます。ローカルで環境を作る必要がありますがそれほど大変ではないと思うので、ぜひ試してみてください。&lt;/p&gt;
+&lt;p&gt;質問などありましたらPython駿河やUnagi .pyのSlackで声かけてもらえると嬉しいです。（Slackの参加方法はこの記事の最後にある招待URLから参加ください）&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;懇親会中に宣言していた、富士宮焼きそばマップを作ろうという話もやっていましたが（お酒に酔って全部はできませんでしたが）、どんな様子でやっているかをすぐに共有できるのもJupyter+RISEのいいところだと思います。&lt;/p&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;Unagi .py/Python駿河 懇親会終わりました。今回は特に楽しかった！ &lt;br&gt;懇親会中に作りたかった富士宮焼きそばマップはもうちょっとのところで本人が酔いが回りすぎたので持ち越しました。8月はLT大会するのでこれちゃんと作りますｗ&lt;a href="https://twitter.com/hashtag/unagipy?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#unagipy&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/pysuruga?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#pysuruga&lt;/a&gt; &lt;a href="https://t.co/sGzLhg3Rjd"&gt;pic.twitter.com/sGzLhg3Rjd&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hiroshi Sano (@hrs_sano645) &lt;a href="https://twitter.com/hrs_sano645/status/1421497515052994560?ref_src=twsrc%5Etfw"&gt;July 31, 2021&lt;/a&gt;&lt;/blockquote&gt;
