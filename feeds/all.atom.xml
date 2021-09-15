@@ -71,7 +71,7 @@
 &lt;p&gt;&lt;a href="https://docs.google.com/presentation/d/1c3LVHNwfW0sI3oavYCM6CbARIMW3QOaHUB9JY-Smyt8/edit#slide=id.p"&gt;PyCharm、並行処理を可視化する - Google スライド&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://ftnext.github.io/2021_slides/pysuruga_Aug/decorator_like_dataclass.html#/1"&gt;@dataclass のような、 () を付けても付けなくてもいいデコレータはどう作る？&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://junyanakada.com/lightningtalks/2021/08/28/py-suruga/gui-in-docker.slides.html#/"&gt;夏休みの自由研究 Docker で GUI アプリを動かしました。&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来月のテーマは懇親会で話が出ていた …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年7月の開催報告です。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hrsano645/fujinomiya-yakisoba-map"&gt;hrsano645 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Python駿河/Unagi .py合同勉強会 2021年7月の開催報告です。&lt;/p&gt;
 &lt;p&gt;新型コロナウィルスの状況もあり、現在はオンライン開催で&lt;a href="https://unagi-py.connpass.com/"&gt;Unagi.py&lt;/a&gt;と合同で勉強会を行っています。&lt;/p&gt;
 &lt;p&gt;今回は真夏のLT大会を開催しました。&lt;/p&gt;
 &lt;p&gt;connpass: &lt;a href="https://py-suruga.connpass.com/event/222048/"&gt;Python駿河 勉強会 #28 ～真夏のLT大会～ - connpass&lt;/a&gt;&lt;/p&gt;
@@ -82,6 +82,7 @@
 &lt;p&gt;&lt;a href="https://docs.google.com/presentation/d/1c3LVHNwfW0sI3oavYCM6CbARIMW3QOaHUB9JY-Smyt8/edit#slide=id.p"&gt;PyCharm、並行処理を可視化する - Google スライド&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://ftnext.github.io/2021_slides/pysuruga_Aug/decorator_like_dataclass.html#/1"&gt;@dataclass のような、 () を付けても付けなくてもいいデコレータはどう作る？&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://junyanakada.com/lightningtalks/2021/08/28/py-suruga/gui-in-docker.slides.html#/"&gt;夏休みの自由研究 Docker で GUI アプリを動かしました。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hrsano645/fujinomiya-yakisoba-map"&gt;hrsano645/fujinomiya-yakisoba-map: 富士宮焼きそばのお店が見れるマップを作ります&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;来月のテーマは懇親会で話が出ていた、8月はPEP8検定試験のトライ用に、PythonZenやPEP8を読んでみようという話になりました。次回の参加もお待ちしてます！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.pythonic-exam.com/archives/news/pythonzen-pep-8"&gt;PythonZen &amp;amp; PEP 8検定試験を2021年10月より無償で受験が可能に | 一般社団法人Pythonエンジニア育成推進協会&lt;/a&gt;&lt;/li&gt;
