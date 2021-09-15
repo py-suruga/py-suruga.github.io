@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python駿河</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-09-15T15:51:00+09:00</updated><subtitle></subtitle><entry><title>Python Charity Talks in Japan 2021.09 に参加しました</title><link href="/posts/2021/09/15/pycharity-202109/" rel="alternate"></link><published>2021-09-15T15:51:00+09:00</published><updated>2021-09-15T15:51:00+09:00</updated><author><name>hrsano645</name></author><id>tag:None,2021-09-15:/posts/2021/09/15/pycharity-202109/</id><summary type="html">&lt;p&gt;9/11にて開催されたPython Charity Talks in Japan 2021.09に静岡コミュニティとして参加しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pyconjp.connpass.com/event/199787/"&gt;Python Charity Talks in Japan 2021.02 - connpass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;当日の様子はこちら&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q7-w19HuAWU?start=4290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -16,8 +17,8 @@
 &lt;p&gt;感想質問も多数いただいてセッション中に収まり切らず、その後に行われた休憩トークでカバーしつつでした。&lt;/p&gt;
 &lt;p&gt;休憩トークでは、どの地域でも地域に関する話があったので静岡も習って地域ネタを用意しつつワイワイさせてもらいました。時間余ってしまうかなと思いましたが逆におさまらず終了してしまい、他にも話をしたいネタがたくさんありました。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;静岡観光でよさそうな所: 最近エヴァやゆるキャン△でも盛り上がってる浜松方面のこと、富士山いい感じでみられるスポット&lt;/li&gt;
-&lt;li&gt;さわやか以外の食べ物ネタ: Unagi.pyの元ネタとなった銘菓や、浜松餃子、桜エビ、富士宮焼きそばとか …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;9/11にて開催されたPython Charity Talks in Japan 2021.09に静岡コミュニティとして参加しました。&lt;/p&gt;
+&lt;li&gt;静岡観光でよさそうな所: 最近エヴァやゆるキャン …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;9/11にて開催されたPython Charity Talks in Japan 2021.09に静岡コミュニティとして参加しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pyconjp.connpass.com/event/199787/"&gt;Python Charity Talks in Japan 2021.02 - connpass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;当日の様子はこちら&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q7-w19HuAWU?start=4290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -65,7 +66,7 @@
 &lt;p&gt;今回は真夏のLT大会を開催しました。&lt;/p&gt;
 &lt;p&gt;connpass: &lt;a href="https://py-suruga.connpass.com/event/222048/"&gt;Python駿河 勉強会 #28 ～真夏のLT大会～ - connpass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hackmd: &lt;a href="https://hackmd.io/@pysuruga-unagipy/B1GeJF1bY"&gt;Unagi-py/Python駿河 合同勉強会 2021/08 - HackMD&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="{filename}.\20210731.md"&gt;前月のJupyter+RISEハンズオン&lt;/a&gt;の方法を使ったLTも披露されました。LTのテーマもPythonの話から専門分野の話にわたってます。はんなりPythonの会やPyCon JPのスタッフ（座長も！）の方にも参加していただいて大変盛り上がったと思います。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/posts/2021/08/01/20210731/"&gt;前月のJupyter+RISEハンズオン&lt;/a&gt;の方法を使ったLTも披露されました。LTのテーマもPythonの話から専門分野の話にわたってます。はんなりPythonの会やPyCon JPのスタッフ（座長も！）の方にも参加していただいて大変盛り上がったと思います。&lt;/p&gt;
 &lt;h2&gt;LT資料（共有されているもの）&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.slideshare.net/hiroyaakita/python-310"&gt;Python 3.10の新機能を 俯瞰してみる&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/presentation/d/1c3LVHNwfW0sI3oavYCM6CbARIMW3QOaHUB9JY-Smyt8/edit#slide=id.p"&gt;PyCharm、並行処理を可視化する - Google スライド&lt;/a&gt;&lt;/p&gt;
@@ -76,7 +77,7 @@
 &lt;p&gt;今回は真夏のLT大会を開催しました。&lt;/p&gt;
 &lt;p&gt;connpass: &lt;a href="https://py-suruga.connpass.com/event/222048/"&gt;Python駿河 勉強会 #28 ～真夏のLT大会～ - connpass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hackmd: &lt;a href="https://hackmd.io/@pysuruga-unagipy/B1GeJF1bY"&gt;Unagi-py/Python駿河 合同勉強会 2021/08 - HackMD&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="{filename}.\20210731.md"&gt;前月のJupyter+RISEハンズオン&lt;/a&gt;の方法を使ったLTも披露されました。LTのテーマもPythonの話から専門分野の話にわたってます。はんなりPythonの会やPyCon JPのスタッフ（座長も！）の方にも参加していただいて大変盛り上がったと思います。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/posts/2021/08/01/20210731/"&gt;前月のJupyter+RISEハンズオン&lt;/a&gt;の方法を使ったLTも披露されました。LTのテーマもPythonの話から専門分野の話にわたってます。はんなりPythonの会やPyCon JPのスタッフ（座長も！）の方にも参加していただいて大変盛り上がったと思います。&lt;/p&gt;
 &lt;h2&gt;LT資料（共有されているもの）&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.slideshare.net/hiroyaakita/python-310"&gt;Python 3.10の新機能を 俯瞰してみる&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/presentation/d/1c3LVHNwfW0sI3oavYCM6CbARIMW3QOaHUB9JY-Smyt8/edit#slide=id.p"&gt;PyCharm、並行処理を可視化する - Google スライド&lt;/a&gt;&lt;/p&gt;
