@@ -5,6 +5,8 @@ Author: hrsano645
 
 9/11にて開催されたPython Charity Talks in Japan 2021.09に静岡コミュニティとして参加しました。
 
+[Python Charity Talks in Japan 2021.02 - connpass](https://pyconjp.connpass.com/event/199787/)
+
 当日の様子はこちら
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q7-w19HuAWU?start=4290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
