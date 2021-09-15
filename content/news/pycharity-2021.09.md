@@ -42,7 +42,7 @@ PyCharityも今回で3回目です。 今回はPython Boot Campで地域にも�
 
 ## まとめ
 
-今回のイベントで、飛騨高山Pythonの会、Shingen.py、すごい広島 With Pythonとご一緒に参加させてもらいました。
+今回のイベントで、[飛騨高山Pythonの会](https://hida-python.connpass.com/)、[shingen.py](https://shingenpy.connpass.com/)、[すごい広島 With Python](https://pycon-hiroshima.connpass.com/)とご一緒に参加させてもらいました。
 
 どの地域もトークは興味深いものだらけで、休憩トークの地域話を聞いてると現地に行きたいなーと感じますね。今はオンラインメインでもあり逆に気軽に遊びにいけるので、交流もしていきたいと思います。Shingen.pyはちょうど中部横断自動車が開通したのでいきやすくなりそうです。
 
